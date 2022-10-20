@@ -4,6 +4,7 @@ scripts on my computer. Most keys are sent as F12-F24 and modifed with Ctrl,Alt,
 [deej](https://github.com/omriharel/deej#software)
 software to interface with and control windows audio applications.
 
-![Main Design](https://github.com/VirgilVasiu/Audio-Key-Arduino-Controller/blob/main/Design/Final%20Design.png?raw=true)
-![Faceplate Design](https://github.com/VirgilVasiu/Audio-Key-Arduino-Controller/blob/main/Design/FaceplateDesign.png?raw=true)
-![Wiring Schematic](https://github.com/VirgilVasiu/Audio-Key-Arduino-Controller/blob/main/Design/AudioControllerSchematicFinal.png?raw=true)
+![Final Product](https://github.com/VirgilVasiu/Arduino-PC-Interface/blob/main/Design/FinalProduct.jpg?raw=true)
+![Main Design](https://github.com/VirgilVasiu/Arduino-PC-Interface/blob/main/Design/Final%20Design.png?raw=true)
+![Faceplate Design](https://github.com/VirgilVasiu/Arduino-PC-Interface/blob/main/Design/FaceplateDesign.png?raw=true)
+![Wiring Schematic](https://github.com/VirgilVasiu/Arduino-PC-Interface/blob/main/Design/AudioControllerSchematicFinal.png?raw=true)
